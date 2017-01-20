@@ -17,4 +17,5 @@
       
 	<import resource="classpath*:application-core.xml" />
 	<import resource="classpath*:application.xml"></import>
+	
 </beans>
